@@ -1,0 +1,64 @@
+{
+  "nid" : 269,
+  "name" : "Consumer Protection",
+  "shortName" : "consumers",
+  "url" : "http://www.nysenate.gov/committee/consumer-protection",
+  "videoUrl" : "http://www.livestream.com/NYSenate_consumerprotection",
+  "chairs" : [ {
+    "nid" : 252726,
+    "name" : "Michael Venditto",
+    "shortName" : "Venditto",
+    "url" : "http://www.nysenate.gov/senator/michael-venditto"
+  } ],
+  "members" : [ {
+    "nid" : 170126,
+    "name" : "Phil Boyle",
+    "shortName" : "Boyle",
+    "url" : "http://www.nysenate.gov/senator/philip-boyle"
+  }, {
+    "nid" : 252741,
+    "name" : "Rich Funke",
+    "shortName" : "Funke",
+    "url" : "http://www.nysenate.gov/senator/rich-funke"
+  }, {
+    "nid" : 170156,
+    "name" : "Kathleen A. Marchione",
+    "shortName" : "Marchione",
+    "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione"
+  }, {
+    "nid" : 111,
+    "name" : "Diane J. Savino",
+    "shortName" : "Savino",
+    "url" : "http://www.nysenate.gov/senator/diane-j-savino"
+  }, {
+    "nid" : 204,
+    "name" : "Joseph E. Robach",
+    "shortName" : "Robach",
+    "url" : "http://www.nysenate.gov/senator/joseph-e-robach"
+  }, {
+    "nid" : 250971,
+    "name" : "George A. Amedore, Jr.",
+    "shortName" : "Amedore,",
+    "url" : "http://www.nysenate.gov/senator/george-amedore"
+  }, {
+    "nid" : 252766,
+    "name" : "Leroy Comrie",
+    "shortName" : "Comrie",
+    "url" : "http://www.nysenate.gov/senator/leroy-comrie"
+  }, {
+    "nid" : 170116,
+    "name" : "George Latimer",
+    "shortName" : "Latimer",
+    "url" : "http://www.nysenate.gov/senator/george-s-latimer"
+  }, {
+    "nid" : 42181,
+    "name" : "Jose Peralta",
+    "shortName" : "Peralta",
+    "url" : "http://www.nysenate.gov/senator/jose-peralta"
+  }, {
+    "nid" : 119,
+    "name" : "José M. Serrano",
+    "shortName" : "Serrano",
+    "url" : "http://www.nysenate.gov/senator/jose-m-serrano"
+  } ]
+}

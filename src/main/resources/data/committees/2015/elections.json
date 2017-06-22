@@ -1,0 +1,54 @@
+{
+  "nid" : 274,
+  "name" : "Elections",
+  "shortName" : "elections",
+  "url" : "http://www.nysenate.gov/committee/elections",
+  "videoUrl" : "http://www.livestream.com/NYSenate_elections",
+  "chairs" : [ {
+    "nid" : 252741,
+    "name" : "Rich Funke",
+    "shortName" : "Funke",
+    "url" : "http://www.nysenate.gov/senator/rich-funke"
+  } ],
+  "members" : [ {
+    "nid" : 250971,
+    "name" : "George A. Amedore, Jr.",
+    "shortName" : "Amedore,",
+    "url" : "http://www.nysenate.gov/senator/george-amedore"
+  }, {
+    "nid" : 75006,
+    "name" : "Patrick M. Gallivan",
+    "shortName" : "Gallivan",
+    "url" : "http://www.nysenate.gov/senator/pat-gallivan"
+  }, {
+    "nid" : 170156,
+    "name" : "Kathleen A. Marchione",
+    "shortName" : "Marchione",
+    "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione"
+  }, {
+    "nid" : 208,
+    "name" : "Michael F. Nozzolio",
+    "shortName" : "Nozzolio",
+    "url" : "http://www.nysenate.gov/senator/michael-f-nozzolio"
+  }, {
+    "nid" : 75586,
+    "name" : "Tony Avella",
+    "shortName" : "Avella",
+    "url" : "http://www.nysenate.gov/senator/tony-avella"
+  }, {
+    "nid" : 252766,
+    "name" : "Leroy Comrie",
+    "shortName" : "Comrie",
+    "url" : "http://www.nysenate.gov/senator/leroy-comrie"
+  }, {
+    "nid" : 101,
+    "name" : "Martin Malavé Dilan",
+    "shortName" : "Dilan",
+    "url" : "http://www.nysenate.gov/senator/martin-malave-dilan"
+  }, {
+    "nid" : 115,
+    "name" : "Liz Krueger",
+    "shortName" : "Krueger",
+    "url" : "http://www.nysenate.gov/senator/liz-krueger"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "nid" : 278,
+  "name" : "Social Services",
+  "shortName" : "socialservices",
+  "url" : "http://www.nysenate.gov/committee/social-services",
+  "videoUrl" : "http://www.livestream.com/NYSenate_SocialServices",
+  "chairs" : [ {
+    "nid" : 75566,
+    "name" : "David Carlucci",
+    "shortName" : "Carlucci",
+    "url" : "http://www.nysenate.gov/senator/david-carlucci"
+  } ],
+  "members" : [ {
+    "nid" : 250971,
+    "name" : "George A. Amedore, Jr.",
+    "shortName" : "Amedore,",
+    "url" : "http://www.nysenate.gov/senator/george-amedore"
+  }, {
+    "nid" : 228,
+    "name" : "Hugh T. Farley",
+    "shortName" : "Farley",
+    "url" : "http://www.nysenate.gov/senator/hugh-t-farley"
+  }, {
+    "nid" : 74986,
+    "name" : "Jack M. Martins",
+    "shortName" : "Martins",
+    "url" : "http://www.nysenate.gov/senator/jack-m-martins"
+  }, {
+    "nid" : 231,
+    "name" : "Kenneth P. LaValle",
+    "shortName" : "LaValle",
+    "url" : "http://www.nysenate.gov/senator/kenneth-p-lavalle"
+  }, {
+    "nid" : 103,
+    "name" : "Velmanette Montgomery",
+    "shortName" : "Montgomery",
+    "url" : "http://www.nysenate.gov/senator/velmanette-montgomery"
+  }, {
+    "nid" : 113,
+    "name" : "Daniel L. Squadron",
+    "shortName" : "Squadron",
+    "url" : "http://www.nysenate.gov/senator/daniel-l-squadron"
+  } ]
+}

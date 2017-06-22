@@ -1,0 +1,54 @@
+{
+  "nid" : 173646,
+  "name" : "Infrastructure and Capital Investment",
+  "shortName" : "capitalinvestments",
+  "url" : "http://www.nysenate.gov/committee/infrastructure-and-capital-investment",
+  "videoUrl" : "http://www.livestream.com/nysenate_infrastructure_capinvestment",
+  "chairs" : [ {
+    "nid" : 222,
+    "name" : "Carl L Marcellino",
+    "shortName" : "Marcellino",
+    "url" : "http://www.nysenate.gov/senator/carl-l-marcellino"
+  } ],
+  "members" : [ {
+    "nid" : 252721,
+    "name" : "Thomas D. Croci",
+    "shortName" : "Croci",
+    "url" : "http://www.nysenate.gov/senator/thomas-croci"
+  }, {
+    "nid" : 75006,
+    "name" : "Patrick M. Gallivan",
+    "shortName" : "Gallivan",
+    "url" : "http://www.nysenate.gov/senator/pat-gallivan"
+  }, {
+    "nid" : 170136,
+    "name" : "Simcha Felder",
+    "shortName" : "Felder",
+    "url" : "http://www.nysenate.gov/senator/simcha-felder"
+  }, {
+    "nid" : 75566,
+    "name" : "David Carlucci",
+    "shortName" : "Carlucci",
+    "url" : "http://www.nysenate.gov/senator/david-carlucci"
+  }, {
+    "nid" : 204,
+    "name" : "Joseph E. Robach",
+    "shortName" : "Robach",
+    "url" : "http://www.nysenate.gov/senator/joseph-e-robach"
+  }, {
+    "nid" : 75581,
+    "name" : "Timothy M. Kennedy",
+    "shortName" : "Kennedy",
+    "url" : "http://www.nysenate.gov/senator/timothy-kennedy"
+  }, {
+    "nid" : 252766,
+    "name" : "Leroy Comrie",
+    "shortName" : "Comrie",
+    "url" : "http://www.nysenate.gov/senator/leroy-comrie"
+  }, {
+    "nid" : 101,
+    "name" : "Martin Malavé Dilan",
+    "shortName" : "Dilan",
+    "url" : "http://www.nysenate.gov/senator/martin-malave-dilan"
+  } ]
+}
